@@ -1,16 +1,14 @@
-### Hi there 👋
+# Matheus Jericó :man_technologist:
 
-<!--
-**matheusjerico/matheusjerico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/matheusjerico)](https://github.com/matheusjerico)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusjerico/)](https://www.linkedin.com/in/matheusjerico/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheusjerico1994@gmail.com)](mailto:matheusjerico1994@gmail.com)
 
-Here are some ideas to get you started:
+### Olá 👋 Bem Vindo ao meu perfil! :smile:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Meu nome é Matheus Jericó, sou formado em Engenharia Eletrônica e sou Cientista de Dados.
+
+- :telescope: Trabalhando como Cientista de Dados na KaBuM!.
+- :heart: Techs: Python, Machine Learning, Deep Learning, Estatística, MLOps, Docker, Kubernetes, Linux, Jenkins, Cloud e mais! 
+- :books: Estudando sobre Engenharia de Dados com a Google Cloud e pipelines de CI/CD.
+- :speech_balloon: Desenvolvendo soluções completas de Machine/Deep Learning.
