@@ -6,7 +6,7 @@
 
 ### Olá 👋 Bem Vindo ao meu perfil! :smile:
 
-Meu nome é Matheus Jericó, sou formado em Engenharia Eletrônica e sou Cientista de Dados.
+Meu nome é Matheus Jericó, sou formado em Engenharia Eletrônica, trabalho como Cientista de Dados e sou certificado pela Google CLoud como Engenheiro de Dados.
 
 - :telescope: Trabalhando como Cientista de Dados na KaBuM!.
 - :heart: Techs: Python, Machine Learning, Deep Learning, Estatística, MLOps, Docker, Kubernetes, Linux, Jenkins, Cloud e mais! 
