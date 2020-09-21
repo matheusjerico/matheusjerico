@@ -8,7 +8,7 @@
 
 Meu nome é Matheus Jericó, sou formado em Engenharia Eletrônica, trabalho como Cientista de Dados e sou certificado pela Google Cloud como Engenheiro de Dados.
 
-- :telescope: Trabalhando como Cientista de Dados.
-- :heart: Techs: Python, Machine Learning, Deep Learning, Estatística, MLOps, Docker, Kubernetes, Linux, Jenkins, Cloud e mais! 
+- :telescope: Cientista de Dados e Engenheiro de Dados certificado pela Google Cloud.
+- :heart: Techs: Python, Machine Learning, Deep Learning, Estatística, MLOps, Docker, Kubernetes, Linux, Jenkins, Cloud...
 - :books: Estudando sobre Engenharia de Dados com a Google Cloud e pipelines de CI/CD.
 - :speech_balloon: Desenvolvendo soluções completas de Machine/Deep Learning.
