@@ -1,7 +1,6 @@
 # Matheus Jericó :man_technologist:
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/matheusjerico)](https://github.com/matheusjerico)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusjerico/)](https://www.linkedin.com/in/matheusjerico/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheusjerico1994@gmail.com)](mailto:matheusjerico1994@gmail.com)
 
 ### Olá 👋 Bem Vindo ao meu perfil! :smile:
